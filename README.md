@@ -17,3 +17,4 @@ View the dashboards and data here: https://chantran.github.io/NBA-Three-Point-Re
 
 ![Zones](https://i.imgur.com/5tf1L2a.png)
  
+* This visualizations answers the question whether or not the three pointer is better than the two point shot: it depends. If you can drive to the paint and get a shot off, typically that shot on average will get you more points than any other zone. If you can’t get a shot off though, it is better to kick it out to the three point line and forego mid range shots. If we weren’t particularly interested in the different two point zones, then the previous graph plotting PPS of 2 pointers and 3 pointers without the zones show that three pointers edges out two pointers. This is not reality however, and teams should be striving to get the ball near the basket as much as possible. 
