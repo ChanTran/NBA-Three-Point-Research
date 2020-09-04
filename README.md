@@ -1,5 +1,5 @@
 # NBA-Three-Pointer-Research
-Data Analysis on the trend of three point shots in today's NBA game.
+Data Analysis on the trend of three point shots in today's NBA game using Tableau.
 
 View the dashboards and data here: https://chantran.github.io/NBA-Three-Point-Research/
 
