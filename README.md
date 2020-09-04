@@ -1,2 +1,0 @@
-# NBA-Three-Point-Research
-
